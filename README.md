@@ -1,2 +1,2 @@
-# Sockeng-s-CV-with-Latex
+# Sockeng\'s-CV-with-Latex
 My CV with Latex
